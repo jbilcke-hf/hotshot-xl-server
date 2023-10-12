@@ -28,7 +28,7 @@ ENV HOME=/home/user \
 WORKDIR $HOME/app
 
 # Clone your repository or add your code to the container
-RUN git clone -b main https://github.com/fffiloni/Hotshot-XL $HOME/app
+RUN git clone -b main https://github.com/jbilcke-hf/Hotshot-XL-Gradio-API $HOME/app
 
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt gradio accelerate

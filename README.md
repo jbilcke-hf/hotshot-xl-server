@@ -1,10 +1,10 @@
 ---
-title: Text To Gif
+title: Hotshot-XL Server
 emoji: 🔥
-colorFrom: purple
-colorTo: yellow
+colorFrom: yellow
+colorTo: green
 sdk: docker
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the original code by @fffiloni -> https://huggingface.co/spaces/fffiloni/text-to-gif/tree/main
