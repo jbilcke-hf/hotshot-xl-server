@@ -40,4 +40,4 @@ ENV CUDA_DEVICE_ORDER=PCI_BUS_ID
 ENV CUDA_VISIBLE_DEVICES=0
 
 # Run your app.py script
-CMD ["python", "app.py"]
+CMD ["python", "app_w_lora.py"]
